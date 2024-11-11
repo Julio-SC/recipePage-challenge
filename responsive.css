@@ -1,0 +1,6 @@
+@media all and (max-width: 375px) {
+    body {
+        flex-direction: column;
+        width: 100%;
+    }
+}
